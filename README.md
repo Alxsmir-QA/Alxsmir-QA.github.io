@@ -1,2 +1,2 @@
-# alxsmir-qa.github.io
+# cv
 Сайт-визитка на HTML+CSS
